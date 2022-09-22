@@ -22,6 +22,6 @@
     "url": "https://github.com/adrienrn/php-mimetyper/issues"
   },
   "dependencies": {
-    "mime-db": "~1.23.0"
+    "mime-db": "^1.52.0"
   }
 }
